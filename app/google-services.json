@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "935346922242",
+    "firebase_url": "https://pushnotification-22390.firebaseio.com",
+    "project_id": "pushnotification-22390",
+    "storage_bucket": "pushnotification-22390.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935346922242:android:d8be1c59634bec30",
+        "android_client_info": {
+          "package_name": "com.rai.vivek.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935346922242-gefic0l0onkbqkfe8u0ebt17q0ufgmkl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rai.vivek.pushnotification",
+            "certificate_hash": "5e99252957a9f674e925e7e652a3a57c43ccaf00"
+          }
+        },
+        {
+          "client_id": "935346922242-385tsquqb2agugri60ugd6lf9u1k4c1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXy5kFT-7jILh-6oZSIouWwW6tjRI0qaQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935346922242-385tsquqb2agugri60ugd6lf9u1k4c1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
