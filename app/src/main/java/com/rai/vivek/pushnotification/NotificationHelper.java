@@ -20,6 +20,7 @@ public class NotificationHelper {
         );
 
         NotificationCompat.Builder mBuilder =
+                
                 new NotificationCompat.Builder(context, MainActivity.CHANNEL_ID)
                         .setSmallIcon(R.drawable.ic_message)
                         .setContentTitle(title)
